@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Martin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Martin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Sumo Unity.-84083048.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Martin\Documents\Sumo Unity" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="egoVehicleStuff" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GraphOverlayEditor.cs" t="Include" />
+              <e p="PackageManagerAssembly" t="Include">
+                <e p="PackageImportList.txt" t="Include" />
+              </e>
+              <e p="VehicleSkeletonWizard.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ThirdPartyAssets" t="Include">
+          <e p="WoLfulus" t="Include">
+            <e p="LineEnding" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Enums.cs" t="Include" />
+                <e p="FileMonitor.cs" t="Include" />
+                <e p="LogEntries.cs" t="Include" />
+                <e p="LogEntry.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

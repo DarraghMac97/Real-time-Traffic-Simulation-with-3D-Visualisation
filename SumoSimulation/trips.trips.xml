@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2019-03-27 01:11:56.284000 by $Id$
+  options: -n map.net.xml -r mapp.rou.xml -e 10
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="-165473832#3" to="-577976192#2"/>
+    
+    <trip id="veh_3" depart="1.00" from="165473832#0" to="5671685#2"/>
+    <trip id="veh_4" depart="1.00" from="455687907#3" to="5670656"/>
+    <trip id="veh_5" depart="1.00" from="-196116967#10" to="165473832#3"/>
+    <trip id="veh_6" depart="1.00" from="-196116967#7" to="-165473832#0"/>
+    <trip id="veh_7" depart="1.00" from="5671119#2" to="-165473832#0"/>
+    <trip id="veh_8" depart="1.00" from="455687907#3" to="5672585#2"/>
+    <trip id="veh_9" depart="1.00" from="5672585#0" to="5671137#2"/>
+    <trip id="veh_1" depart="4.00" from="-165473832#3" to="243056525#0"/>
+    <trip id="veh_2" depart="6.00" from="-165473832#3" to="-455687907#2"/>
+</routes>

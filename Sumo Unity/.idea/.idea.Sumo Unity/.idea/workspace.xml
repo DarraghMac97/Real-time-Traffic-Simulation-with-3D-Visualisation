@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d0f5c6-d1a7-4e5d-9009-dc1628dcfb2c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../newmap/trips.trips.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/traLights.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+              <folding>
+                <marker date="1554746425258" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554746425258" expanded="true" signature="102:2136" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="305:508" ph="/* The Traffic light class ... */" />
+                <marker date="1554746425258" expanded="true" signature="582:1320" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="701:1111" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="1118:1317" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="1409:1656" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="1432:1653" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="1744:2126" ph="{...}" />
+                <marker date="1554746425258" expanded="true" signature="1767:2123" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getidl</find>
+      <find>tls</find>
+      <find>tlightid</find>
+      <find>scale</find>
+      <find>simstep</find>
+      <find>arriv</find>
+      <find>vehiclesl</find>
+      <find>left</find>
+      <find>&quot;0&quot;</find>
+      <find>egovehicle.na</find>
+      <find>= 5</find>
+      <find>speed =</find>
+      <find>tor</find>
+      <find>logi</find>
+      <find>onapp</find>
+      <find>app</find>
+      <find>.8f</find>
+      <find>speed</find>
+      <find>int</find>
+      <find>handbr</find>
+      <find>angle</find>
+      <find>onap</find>
+      <find>gui</find>
+      <find>testlight</find>
+      <find>cartoonc</find>
+      <find>NPCVehiclear</find>
+      <find>chang</find>
+      <find>change</find>
+      <find>prin</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>newtlights</replace>
+      <replace>traLights</replace>
+      <replace>1f</replace>
+      <replace>= 15</replace>
+      <replace>newjunction</replace>
+      <replace>laneconnections</replace>
+      <replace>NPCVehicle</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../GitHub/Sumo-unity/ConsoleApp1/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/utymap-ver2.3/unity/demo/Assets/Scripts/Scenes/Map/MapBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/185725D1-895C-42C5-B2E9-1A447FEC877E/0b/5fa37e3d/tLight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/egoVehicleStuff/Scripts/DriftCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/egoVehicleStuff/Scripts/EasySuspension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Logitech SDK/Script Sample/LogitechSteeringWheel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../keyboardWheelDrive.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/b7/ef9f4aad/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Logitech SDK/LogitechGSDK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/traLights.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Unity-Road-Generator-master/Assets/RoadSplines/Scripts/CurveImplementation.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/Unity-Road-Generator-master/Assets/RoadSplines/Scripts/CurveImplementation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/CurveImplementation.cs" />
+        <option value="$PROJECT_DIR$/../Sumo/doc/tutorial/traci_tls/data/cross.rou.xml" />
+        <option value="$PROJECT_DIR$/Assets/camerafollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/EgoTest2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Triangulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/meshy.cs" />
+        <option value="$USER_HOME$/Downloads/New folder/map.rou.xml" />
+        <option value="$USER_HOME$/Downloads/New folder/newmap/map.rou.xml" />
+        <option value="$PROJECT_DIR$/Assets/EgoVehicleTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/newtlights.cs" />
+        <option value="$PROJECT_DIR$/Assets/trafficlightchanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Logitech SDK/Script Sample/LogitechSteeringWheel.cs" />
+        <option value="$USER_HOME$/Downloads/New folder/newmap/mapp.rou.xml" />
+        <option value="$PROJECT_DIR$/Assets/keyboardWheelDrive.cs" />
+        <option value="$USER_HOME$/Downloads/New folder/newmap/map.sumocfg" />
+        <option value="$USER_HOME$/Downloads/New folder/newmap/trips.trips.xml" />
+        <option value="$PROJECT_DIR$/../newmap/trips.trips.xml" />
+        <option value="$PROJECT_DIR$/Assets/WheelDrive.cs" />
+        <option value="$PROJECT_DIR$/Assets/traLights.cs" />
+        <option value="$PROJECT_DIR$/Assets/Traci_one.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newmap/trips.trips.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d0f5c6-d1a7-4e5d-9009-dc1628dcfb2c" name="Default Changelist" comment="" />
+      <created>1547673174199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547673174199</updated>
+      <workItem from="1547673178187" duration="26826000" />
+      <workItem from="1547705910062" duration="56000" />
+      <workItem from="1547744569167" duration="13578000" />
+      <workItem from="1547765255653" duration="2134000" />
+      <workItem from="1547768047081" duration="6420000" />
+      <workItem from="1548004579436" duration="9710000" />
+      <workItem from="1548036494440" duration="1734000" />
+      <workItem from="1548053638607" duration="6112000" />
+      <workItem from="1548061474650" duration="1284000" />
+      <workItem from="1548068226913" duration="1037000" />
+      <workItem from="1548244822879" duration="252000" />
+      <workItem from="1548251564611" duration="5608000" />
+      <workItem from="1548345794334" duration="10261000" />
+      <workItem from="1548432448561" duration="12066000" />
+      <workItem from="1548734849480" duration="4048000" />
+      <workItem from="1548742615115" duration="1229000" />
+      <workItem from="1548748847911" duration="627000" />
+      <workItem from="1549219103084" duration="1803000" />
+      <workItem from="1549230474784" duration="2014000" />
+      <workItem from="1549819585182" duration="1049000" />
+      <workItem from="1549827030235" duration="1442000" />
+      <workItem from="1549829043259" duration="3866000" />
+      <workItem from="1549856423119" duration="1232000" />
+      <workItem from="1551798222869" duration="2866000" />
+      <workItem from="1552790122313" duration="3028000" />
+      <workItem from="1552963123075" duration="7313000" />
+      <workItem from="1552990189934" duration="630000" />
+      <workItem from="1553108706693" duration="231000" />
+      <workItem from="1553113445297" duration="6197000" />
+      <workItem from="1553281941834" duration="7401000" />
+      <workItem from="1553443054219" duration="12475000" />
+      <workItem from="1553460199279" duration="8254000" />
+      <workItem from="1553471937609" duration="1846000" />
+      <workItem from="1553485858396" duration="13003000" />
+      <workItem from="1553500540918" duration="3227000" />
+      <workItem from="1553510047938" duration="902000" />
+      <workItem from="1553635868207" duration="16072000" />
+      <workItem from="1553676897544" duration="2069000" />
+      <workItem from="1553679072146" duration="5170000" />
+      <workItem from="1553690113877" duration="6492000" />
+      <workItem from="1554189959448" duration="659000" />
+      <workItem from="1554618164651" duration="3856000" />
+      <workItem from="1554623290487" duration="4576000" />
+      <workItem from="1554631046139" duration="1844000" />
+      <workItem from="1554746060212" duration="2095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224594000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" weight="0.3290469" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32569557" />
+      <window_info anchor="bottom" id="Build" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Android Profiler" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="12" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="Unit Tests" order="16" weight="0.32569557" />
+      <window_info active="true" anchor="bottom" id="Unity" order="17" visible="true" weight="0.26350245" />
+      <window_info anchor="bottom" id="TODO" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" side_tool="true" visible="true" weight="0.026475038" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/RoadArchitect/GSDRoad.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/RoadArchitect/Editor/GSDRoadEditor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CurveImplementation.cs" />
+    <entry file="file://$USER_HOME$/Downloads/Unity-Road-Generator-master/Assets/RoadSplines/Scripts/CurveImplementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+          <folding>
+            <marker date="1547704740531" expanded="false" signature="6:78" ph="..." />
+            <marker date="1547704740531" expanded="true" signature="189:9989" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="977:1016" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="1057:7265" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="1082:1255" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="1396:1486" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="1499:1593" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="1650:7259" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="2031:6997" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="2276:2448" ph="/* Tangent calculation for each control point ... */" />
+            <marker date="1547704740531" expanded="true" signature="2476:2633" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="2654:2770" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="2832:3416" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="2904:3056" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="3093:3221" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="3246:3398" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="3437:3785" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="3508:3660" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="3685:3767" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="4027:4191" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="4340:6322" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="4702:5507" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="5539:6303" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="6384:6983" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="6662:6802" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="6855:6948" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7089:7249" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7290:8338" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7315:8332" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7360:8065" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7460:8051" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7660:7832" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="7857:8033" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="8197:8308" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="8374:8884" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="8441:8604" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="8807:8877" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="8915:9436" ph="{...}" />
+            <marker date="1547704740531" expanded="true" signature="9466:9987" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/CurveImplementation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Internal/CatmullRom.cs" />
+    <entry file="file://C:/Program Files (x86)/Eclipse/Sumo/doc/tutorial/traci_tls/embedded.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Eclipse/Sumo/doc/tutorial/traci_tls/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Sumo/doc/tutorial/traci_tls/data/cross.rou.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Car Script basic/Script/Dot_Truck_Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1462788072000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1462788072000" expanded="true" signature="140:350" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="402:1731" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="553:915" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="938:1727" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="1152:1204" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="1284:1723" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="1325:1446" ph="{...}" />
+            <marker date="1462788072000" expanded="true" signature="1480:1583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/controllerScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/egoVehicleStuff/Scripts/EasySuspension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <marker date="1548247321709" expanded="true" signature="83:2453" ph="{...}" />
+            <marker date="1548247321709" expanded="true" signature="835:897" ph="{...}" />
+            <marker date="1548247321709" expanded="true" signature="919:1911" ph="{...}" />
+            <marker date="1548247321709" expanded="true" signature="1083:1908" ph="{...}" />
+            <marker date="1548247321709" expanded="true" signature="1973:2450" ph="/* void OnGUI() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/camerafollow.cs" />
+    <entry file="file://$USER_HOME$/Downloads/utymap-ver2.3/unity/demo/Assets/Scripts/Scenes/Map/MapBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="128" column="16" lean-forward="true" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/meshy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Triangulator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <marker date="1548346665850" expanded="true" signature="80:3048" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="186:239" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="273:1517" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="467:544" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="544:645" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="735:1448" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="1070:1438" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="1546:1831" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="1655:1798" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="1894:2394" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="2166:2367" ph="{...}" />
+            <marker date="1548346665850" expanded="true" signature="2474:3046" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/map.rou.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/READ ME - About Scene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GitHub/Sumo-unity/ConsoleApp1/ConsoleApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EgoTest2.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/185725D1-895C-42C5-B2E9-1A447FEC877E/0b/5fa37e3d/tLight.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="44" column="7" selection-start-line="11" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/newtlights.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Logitech SDK/LogitechGSDK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-849">
+          <caret line="711" lean-forward="true" selection-start-line="711" selection-end-line="711" />
+          <folding>
+            <marker date="1528843665000" expanded="false" signature="6:153" ph="..." />
+            <marker date="1528843665000" expanded="true" signature="180:33458" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="1278:1362" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="4792:7180" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="7209:7335" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="14637:14670" ph="/* END OF LCD SDK ... */" />
+            <marker date="1528843665000" expanded="true" signature="14900:16047" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15045:15148" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15071:15138" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15221:15329" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15247:15319" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15403:15511" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15429:15501" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15608:15718" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15634:15708" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15768:15877" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15794:15867" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15927:16041" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="15953:16031" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="16273:16360" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="17393:17514" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="17953:18085" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="21285:21650" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="21741:24505" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="25304:25872" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="25603:25741" ph="{...}" />
+            <marker date="1528843665000" expanded="true" signature="25782:25846" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GitHub/Sumo-unity/ConsoleApp1/data/cross.net.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="178" column="15" selection-start-line="178" selection-start-column="15" selection-end-line="178" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/b7/ef9f4aad/Quaternion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Logitech SDK/Script Sample/LogitechSteeringWheel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <marker date="1553641734251" expanded="false" signature="6:63" ph="..." />
+            <marker date="1553641734251" expanded="true" signature="115:14206" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="429:1472" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="1502:1592" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="1610:2026" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="2084:14201" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="2250:13894" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="4398:5046" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="5172:5349" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="5232:5334" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="5363:7255" ph="/* THIS AXIS ARE NEVER REPORTED BY LOGITECH CONTROLLERS ... */" />
+            <marker date="1553641734251" expanded="true" signature="7770:8215" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="7867:8010" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8031:8201" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8293:8738" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8392:8537" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8558:8724" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8814:9251" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="8911:9054" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="9075:9237" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="9397:9489" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="9587:9682" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="9761:10212" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="9861:10007" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10028:10197" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10292:10746" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10393:10540" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10561:10731" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10829:11295" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="10933:11083" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="11104:11281" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="11372:11867" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="11477:11622" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="11643:11853" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="11943:12382" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="12046:12189" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="12210:12368" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="12461:12906" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="12560:12705" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="12726:12892" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="13015:13598" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="13671:13757" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="13798:13883" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="13945:14057" ph="{...}" />
+            <marker date="1553641734251" expanded="true" signature="14070:14195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/trafficlightchanger.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/egoVehicleStuff/Scripts/DriftCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <marker date="1531310688000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1531310688000" expanded="true" signature="74:1433" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="128:336" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="579:674" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="702:907" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="939:1033" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="1067:1431" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="1104:1228" ph="{...}" />
+            <marker date="1531310688000" expanded="true" signature="1241:1425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/map.net.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="1128" column="39" selection-start-line="1128" selection-start-column="39" selection-end-line="1128" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/mapp.rou.alt.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/map.rou.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/mapp.rou.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/keyboardWheelDrive.cs" />
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/trips.trips.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keyboardWheelDrive.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="75" column="9" selection-start-line="69" selection-start-column="8" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EgoVehicleTest.cs" />
+    <entry file="file://$USER_HOME$/Downloads/New folder/map.sumocfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/New folder/newmap/map.sumocfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../newmap/trips.trips.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/traLights.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <marker date="1554746425258" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554746425258" expanded="true" signature="102:2136" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="305:508" ph="/* The Traffic light class ... */" />
+            <marker date="1554746425258" expanded="true" signature="582:1320" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="701:1111" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="1118:1317" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="1409:1656" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="1432:1653" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="1744:2126" ph="{...}" />
+            <marker date="1554746425258" expanded="true" signature="1767:2123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WheelDrive.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Traci_one.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="246" column="30" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
